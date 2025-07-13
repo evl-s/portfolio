@@ -51,8 +51,8 @@
 #### Для формирования общего понимания предметной области:
 
 1. Создан каталог источников информации
-     [Для задачи 1 [Клик]](./xlsx/HRS_infosources.xlsx)
-     [Для задачи 2 [Клик]](./xlsx/DLY_infosources.xlsx)
+   [Для задачи 1 [Клик]](./xlsx/HRS_infosources.xlsx)
+   [Для задачи 2 [Клик]](./xlsx/DLY_infosources.xlsx)
 3. Разработан глоссарий
    [Для задачи 1 [Клик]](./xlsx/HRS_glossary.xlsx)
    [Для задачи 2 [Клик]](./xlsx/DLY_glossary.xlsx)
